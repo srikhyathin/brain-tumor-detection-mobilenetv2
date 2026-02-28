@@ -1,7 +1,7 @@
 # Brain Tumor Detection using MobileNetV2
 
 ## Overview
-Deep learning-based brain tumor classification using transfer learning (MobileNetV2) and Grad-CAM visualization.
+Designed and implemented a deep learning-based brain tumor classification system using MRI images. Leveraged MobileNetV2 with frozen ImageNet pretrained layers and custom classification head. Applied data preprocessing, train-validation split, and model evaluation using accuracy, precision, recall, F1-score, and confusion matrix. Integrated Grad-CAM visualization to improve interpretability by highlighting tumor-relevant regions. Built an end-to-end reproducible pipeline using Kaggle API for automated dataset retrieval.
 
 ## Dataset
 Brain MRI Images for Brain Tumor Detection (Kaggle)
